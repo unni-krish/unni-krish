@@ -6,7 +6,7 @@ I'm a passionate and curious data professional with hands-on experience in build
 
 ---
 
-## 🚀 What I Do
+## <div class="tenor-gif-embed" data-postid="4761553572339021146" data-share-method="host" data-aspect-ratio="1.08808" data-width="100%"><a href="https://tenor.com/view/rocket-gif-4761553572339021146">Rocket Sticker</a>from <a href="https://tenor.com/search/rocket-stickers">Rocket Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> What I Do
 
 - 🔍 Analyze data to uncover insights and drive decisions  
 - 🤖 Build ML models and NLP pipelines for automation and predictions  
