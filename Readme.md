@@ -6,7 +6,7 @@ I'm a passionate and curious data professional with hands-on experience in build
 
 ---
 
-## <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="30px" /> What I Do
+## <img width="30px" src="https://media.tenor.com/QhRvvwpCdVoAAAAj/rocket.gif" />  What I Do
 
 - 🔍 Analyze data to uncover insights and drive decisions  
 - 🤖 Build ML models and NLP pipelines for automation and predictions  
