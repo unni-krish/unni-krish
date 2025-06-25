@@ -1,0 +1,48 @@
+# 👋 Hello, I'm Unnikrishnan R S
+
+🎯 **Data Scientist | Python Developer | AI Enthusiast**
+
+I'm a passionate and curious data professional with hands-on experience in building intelligent systems using machine learning, NLP, and AI tools. I enjoy solving real-world problems with code, and I’m constantly learning and experimenting with new technologies.
+
+---
+
+## 🚀 What I Do
+
+- 🔍 Analyze data to uncover insights and drive decisions  
+- 🤖 Build ML models and NLP pipelines for automation and predictions  
+- 🧠 Work with LLMs and modern AI tools like Transformers and Ollama  
+- 🛠️ Develop backend APIs with Python, FastAPI, and Flask  
+- 📈 Visualize and communicate results clearly and effectively  
+- ⚙️ Optimize performance using asynchronous programming and Cython
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, SQL, Bash  
+**Libraries/Frameworks:** Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch, FastAPI, Flask  
+**NLP & LLMs:** HuggingFace Transformers, LangChain, BERT, Longformer, Ollama  
+**Tools:** Docker, Git, WSL, VS Code, Jupyter  
+**Database:** PostgreSQL, MySQL, SQLite  
+**Other:** REST APIs, PDF automation, Data Cleaning, Deployment
+
+---
+
+## 🌱 Currently Exploring
+
+- Local LLM deployment for private AI workflows  
+- Scalable ML systems with async architecture  
+- Real-world applications of AI in healthcare and real estate
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/unni-krishnan-rs/)  
+- 🌐 [Portfolio](https://github.com/unni-krish/portfolio)  
+- ✉️ Email: your.email@example.com
+
+---
+
+_“Code. Learn. Improve. Repeat.”_
+
