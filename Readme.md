@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Unnikrishnan R S
+# <img width="30px" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" /> Hello, I'm Unnikrishnan R S
 
 🎯 **Data Scientist | Python Developer | AI Enthusiast**
 
@@ -40,7 +40,7 @@ I'm a passionate and curious data professional with hands-on experience in build
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/unni-krishnan-rs/)  
 - 🌐 [Portfolio](https://github.com/unni-krish/portfolio)  
-- ✉️ Email: your.email@example.com
+- ✉️ [Portfolio](rs.unnikris@gmail.com)  
 
 ---
 
