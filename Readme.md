@@ -40,7 +40,7 @@ I'm a passionate and curious data professional with hands-on experience in build
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/unni-krishnan-rs/)  
 - 🌐 [Portfolio](https://github.com/unni-krish/portfolio)  
-- ✉️ [Portfolio](rs.unnikris@gmail.com)  
+- ✉️ [Email](rs.unnikris@gmail.com)  
 
 ---
 
