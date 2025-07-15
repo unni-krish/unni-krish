@@ -1,6 +1,6 @@
 # <img width="30px" src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" /> Hello, I'm Unnikrishnan R S
 
-<img width="30px" src="https://media.tenor.com/XbovdtbA5mcAAAAi/direct-hit-joypixels.gif" /> **Data Scientist | Python Developer | AI Enthusiast**
+**Data Scientist | Python Developer | AI Enthusiast**
 
 I'm a passionate and curious data professional with hands-on experience in building intelligent systems using machine learning, NLP, and AI tools. I enjoy solving real-world problems with code, and I’m constantly learning and experimenting with new technologies.
 
@@ -36,7 +36,7 @@ I'm a passionate and curious data professional with hands-on experience in build
 
 ---
 
-## <img width="30px" src="https://media.tenor.com/nW1YVHy5gycAAAAi/phone-cell.gif" /> Let's Connect
+##  Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/unni-krishnan-rs/)  
 - 🌐 [Portfolio](https://unni-krish.github.io/portfolio/)  
